@@ -1,0 +1,162 @@
+{
+  "versao": 1,
+  "idioma": "pt-BR",
+  "publico": [
+    "estudantes",
+    "trabalhadores"
+  ],
+  "status": "conteúdo inicial autoral para revisão pedagógica da equipe",
+  "revisao": "2026-09-24",
+  "licenca": "Textos originais deste material de estudo; fontes externas mantêm suas licenças.",
+  "fontes_para_aprofundar": [
+    "https://www.bcb.gov.br/cidadaniafinanceira/indexcidadaniafinanceira",
+    "https://www.bcb.gov.br/pre/pef/port/caderno_cidadania_financeira.pdf",
+    "https://www.gov.br/investidor/pt-br/investir/antes-de-investir/entenda-as-caracteristicas-dos-investimentos"
+  ],
+  "licoes": [
+    {
+      "id": "licao-01",
+      "titulo": "Entradas e saídas",
+      "texto": "Anote separadamente o que entrou e o que saiu.",
+      "atividade": "Registre um exemplo de cada no seu dia."
+    },
+    {
+      "id": "licao-02",
+      "titulo": "Seu período de controle",
+      "texto": "Escolha um período para comparar registros, como o mês.",
+      "atividade": "Confira se receita e despesa pertencem ao mesmo período."
+    },
+    {
+      "id": "licao-03",
+      "titulo": "Valor previsto e realizado",
+      "texto": "Uma promessa de entrada ainda não é dinheiro recebido.",
+      "atividade": "Separe o salário esperado do já recebido."
+    },
+    {
+      "id": "licao-04",
+      "titulo": "Pequenos gastos",
+      "texto": "Gastos pequenos repetidos podem ocupar parte relevante do orçamento.",
+      "atividade": "Some uma categoria de pequenos gastos por sete dias."
+    },
+    {
+      "id": "licao-05",
+      "titulo": "Despesas essenciais",
+      "texto": "As prioridades dependem de suas necessidades e responsabilidades.",
+      "atividade": "Liste os compromissos que precisam ser atendidos primeiro."
+    },
+    {
+      "id": "licao-06",
+      "titulo": "Renda variável",
+      "texto": "A renda de trabalhos eventuais pode mudar entre meses.",
+      "atividade": "Compare três meses sem supor que o maior valor vai se repetir."
+    },
+    {
+      "id": "licao-07",
+      "titulo": "Compromissos futuros",
+      "texto": "O saldo de hoje pode estar comprometido com contas ainda não pagas.",
+      "atividade": "Anote um vencimento futuro antes de decidir uma compra."
+    },
+    {
+      "id": "licao-08",
+      "titulo": "Compras por impulso",
+      "texto": "Uma pausa pode ajudar a distinguir vontade passageira de necessidade.",
+      "atividade": "Escreva o motivo de um desejo na Geladeira."
+    },
+    {
+      "id": "licao-09",
+      "titulo": "Antes de comprar",
+      "texto": "Preço, utilidade e manutenção fazem parte da decisão.",
+      "atividade": "Liste um custo além do preço de um produto."
+    },
+    {
+      "id": "licao-10",
+      "titulo": "Comparar alternativas",
+      "texto": "A mesma necessidade pode ter soluções diferentes.",
+      "atividade": "Compare consertar, emprestar e comprar, quando fizer sentido."
+    },
+    {
+      "id": "licao-11",
+      "titulo": "Parcelas",
+      "texto": "Uma parcela pequena também compromete os próximos meses.",
+      "atividade": "Some o valor de todas as parcelas de uma compra."
+    },
+    {
+      "id": "licao-12",
+      "titulo": "Custo do crédito",
+      "texto": "Ao comparar crédito, observe custos e condições, não apenas a parcela.",
+      "atividade": "Procure o custo total informado em uma proposta fictícia."
+    },
+    {
+      "id": "licao-13",
+      "titulo": "Assinaturas",
+      "texto": "Cobranças recorrentes merecem revisão periódica.",
+      "atividade": "Confira quais serviços você realmente utiliza."
+    },
+    {
+      "id": "licao-14",
+      "titulo": "Uma meta concreta",
+      "texto": "Um objetivo fica mais fácil de acompanhar quando tem valor e prazo.",
+      "atividade": "Escreva uma meta e uma data para revisá-la."
+    },
+    {
+      "id": "licao-15",
+      "titulo": "Revisar metas",
+      "texto": "Planos podem mudar quando a realidade muda.",
+      "atividade": "Atualize uma meta sem tratar isso como fracasso."
+    },
+    {
+      "id": "licao-16",
+      "titulo": "Reserva e imprevistos",
+      "texto": "Imprevistos fazem parte do planejamento.",
+      "atividade": "Liste situações para as quais gostaria de se preparar."
+    },
+    {
+      "id": "licao-17",
+      "titulo": "Desistência não é receita",
+      "texto": "Evitar uma compra não cria uma nova entrada de dinheiro.",
+      "atividade": "Confira o saldo e os compromissos antes de reservar um valor."
+    },
+    {
+      "id": "licao-18",
+      "titulo": "Reserva registrada e dinheiro transferido",
+      "texto": "Marcar um valor numa meta é um registro, não uma operação bancária.",
+      "atividade": "Diferencie intenção, valor reservado e transferência confirmada."
+    },
+    {
+      "id": "licao-19",
+      "titulo": "Segurança digital",
+      "texto": "Pedidos inesperados de senha ou código merecem verificação.",
+      "atividade": "Confira o canal oficial antes de responder."
+    },
+    {
+      "id": "licao-20",
+      "titulo": "Promessas de ganho",
+      "texto": "Promessas de retorno extraordinário sem risco merecem desconfiança.",
+      "atividade": "Registre quais informações faltam antes de tomar uma decisão."
+    },
+    {
+      "id": "licao-21",
+      "titulo": "Risco",
+      "texto": "Uma aplicação pode apresentar perdas ou outros riscos.",
+      "atividade": "Pergunte quais riscos existem antes de avaliar um produto."
+    },
+    {
+      "id": "licao-22",
+      "titulo": "Liquidez",
+      "texto": "Liquidez envolve a possibilidade de transformar o investimento em dinheiro disponível.",
+      "atividade": "Confira prazo e condições de resgate."
+    },
+    {
+      "id": "licao-23",
+      "titulo": "Objetivo e investimento",
+      "texto": "A escolha deve considerar o objetivo, o prazo e a tolerância a risco.",
+      "atividade": "Defina para que e quando precisaria do dinheiro."
+    },
+    {
+      "id": "licao-24",
+      "titulo": "Revisão semanal",
+      "texto": "Uma revisão curta ajuda a perceber registros faltantes e mudanças de hábito.",
+      "atividade": "Escolha um dia para revisar sua semana."
+    }
+  ]
+}
